@@ -1,1 +1,1 @@
-Group 28 says Hi
+First attempt using concurrency in Java in a degital banking system
